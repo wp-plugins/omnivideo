@@ -33,7 +33,12 @@ The manual installation method involves downloading our feature-rich plugin and 
 
 = Upgrading =
 
-Automatic updates should work a charm; as always though, ensure you backup your site just in case. 
+Automatic updates should work a charm; as always though, ensure you backup your site just in case.
+
+== Screenshots ==
+
+1. Adding the video from add media.
+2. List of your videos at single post/page.
 
 == Screenshots ==
 
