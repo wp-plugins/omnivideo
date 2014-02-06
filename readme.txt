@@ -1,7 +1,7 @@
 === OmniVideo by ColorLabs & Company ===
 Contributors: colorlabs
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@colorlabsproject.com&item_name=Donation+for+OmniVideo
-Requires at least: WP 3.1
+Requires at least: 3.1.0
 Tested up to: 3.8.0
 Stable tag: trunk
 License: GPLv3 or later
