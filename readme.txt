@@ -37,12 +37,8 @@ Automatic updates should work a charm; as always though, ensure you backup your 
 
 == Screenshots ==
 
-1. Adding the video from add media.
-2. List of your videos at single post/page.
-
-== Screenshots ==
-
 1. To insert the shortcode for OmniVideo through the "Add Media" options click on "Add an Image"
+2. List of your videos at single post/page.
 
 == Frequently Asked Questions == 
 
