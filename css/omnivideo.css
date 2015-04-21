@@ -39,6 +39,8 @@
 }
 .omnivideo-popup-description {
 	margin-top: 15px;
+  font-size: 14px;
+  line-height: 24px;
 }
 .omnivideo-thumb .modal-content .close{
 	background:none;
@@ -60,7 +62,6 @@
 
 .omnivideo-wrapper .gallery-item {
 	float: left;
-	margin: 0 4px 4px 0;
 	overflow: hidden;
 	position: relative;
 }

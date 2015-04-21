@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OmniVideo v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-04-21 08:17:13+0000\n"
+"Last-Translator: colorlabs <arif@colorlabsproject.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: omnivideo-form.php:60
+#@ omnivideo
+msgid "Youtube"
+msgstr ""
+
+#: omnivideo-form.php:64
+#@ omnivideo
+msgid "Channel Name"
+msgstr ""
+
+#: omnivideo-form.php:66
+#@ omnivideo
+msgid "Put your Youtube channel name on this field"
+msgstr ""
+
+#: omnivideo-form.php:71
+#: omnivideo-form.php:122
+#: omnivideo-form.php:173
+#@ omnivideo
+msgid "Type"
+msgstr ""
+
+#: omnivideo-form.php:74
+#: omnivideo-form.php:125
+#: omnivideo-form.php:176
+#@ omnivideo
+msgid "Redirect"
+msgstr ""
+
+#: omnivideo-form.php:75
+#: omnivideo-form.php:126
+#: omnivideo-form.php:177
+#@ omnivideo
+msgid "Popup"
+msgstr ""
+
+#: omnivideo-form.php:77
+#: omnivideo-form.php:128
+#: omnivideo-form.php:179
+#@ omnivideo
+msgid "Choose what media type you want to put on your post/page. Image means watch the video on Youtube page, video means watch the video on your site"
+msgstr ""
+
+#: omnivideo-form.php:81
+#: omnivideo-form.php:132
+#: omnivideo-form.php:183
+#@ omnivideo
+msgid "Result"
+msgstr ""
+
+#: omnivideo-form.php:83
+#: omnivideo-form.php:185
+#@ omnivideo
+msgid "Set how many media item you want to display by putting a number here"
+msgstr ""
+
+#: omnivideo-form.php:87
+#: omnivideo-form.php:138
+#: omnivideo-form.php:189
+#@ omnivideo
+msgid "Column"
+msgstr ""
+
+#: omnivideo-form.php:90
+#: omnivideo-form.php:141
+#: omnivideo-form.php:192
+#@ omnivideo
+msgid "1"
+msgstr ""
+
+#: omnivideo-form.php:91
+#: omnivideo-form.php:142
+#: omnivideo-form.php:193
+#@ omnivideo
+msgid "2"
+msgstr ""
+
+#: omnivideo-form.php:92
+#: omnivideo-form.php:143
+#: omnivideo-form.php:194
+#@ omnivideo
+msgid "3"
+msgstr ""
+
+#: omnivideo-form.php:93
+#: omnivideo-form.php:144
+#: omnivideo-form.php:195
+#@ omnivideo
+msgid "4"
+msgstr ""
+
+#: omnivideo-form.php:94
+#: omnivideo-form.php:145
+#: omnivideo-form.php:196
+#@ omnivideo
+msgid "5"
+msgstr ""
+
+#: omnivideo-form.php:95
+#: omnivideo-form.php:146
+#: omnivideo-form.php:197
+#@ omnivideo
+msgid "6"
+msgstr ""
+
+#: omnivideo-form.php:96
+#: omnivideo-form.php:147
+#: omnivideo-form.php:198
+#@ omnivideo
+msgid "7"
+msgstr ""
+
+#: omnivideo-form.php:97
+#: omnivideo-form.php:148
+#: omnivideo-form.php:199
+#@ omnivideo
+msgid "8"
+msgstr ""
+
+#: omnivideo-form.php:98
+#: omnivideo-form.php:149
+#: omnivideo-form.php:200
+#@ omnivideo
+msgid "9"
+msgstr ""
+
+#: omnivideo-form.php:100
+#: omnivideo-form.php:151
+#: omnivideo-form.php:202
+#@ omnivideo
+msgid "Set how the video(s) should be displayed in column. You can set how many column should be displayed."
+msgstr ""
+
+#: omnivideo-form.php:104
+#: omnivideo-form.php:155
+#: omnivideo-form.php:206
+#@ omnivideo
+msgid "Show Video Description"
+msgstr ""
+
+#: omnivideo-form.php:107
+#: omnivideo-form.php:158
+#: omnivideo-form.php:209
+#@ omnivideo
+msgid "Display the video description? (this option only work if you choose to displaying a video)"
+msgstr ""
+
+#: omnivideo-form.php:112
+#@ omnivideo
+msgid "Vimeo"
+msgstr ""
+
+#: omnivideo-form.php:116
+#: omnivideo-form.php:167
+#@ omnivideo
+msgid "UserName"
+msgstr ""
+
+#: omnivideo-form.php:118
+#@ omnivideo
+msgid "Put your Vimeo user name on this field"
+msgstr ""
+
+#: omnivideo-form.php:134
+#@ omnivideo
+msgid "Set how many media item you want to display by putting a number here. <br/><b>Note:</b> In Vimeo, the result is generated per page, not item. Then, if you put result = 1 there are about 20 videos will be displayed"
+msgstr ""
+
+#: omnivideo-form.php:163
+#@ omnivideo
+msgid "Daily Motion"
+msgstr ""
+
+#: omnivideo-form.php:169
+#@ omnivideo
+msgid "Put your Daily Motion user ID on this field"
+msgstr ""
+
+#: omnivideo-form.php:270
+#@ omnivideo
+msgid "Shortcode preview"
+msgstr ""
+
+#: omnivideo-form.php:276
+#@ omnivideo
+msgid "Insert into post"
+msgstr ""
+
+#: omnivideo-form.php:277
+#@ omnivideo
+msgid "Cancel"
+msgstr ""
+
+#: omnivideo.php:27
+#@ default
+msgid "Can't load this file directly"
+msgstr ""
+
+#: omnivideo.php:179
+#@ omnivideo
+msgid "OmniVideo Plugin is active!"
+msgstr ""
+
+#: omnivideo.php:180
+#@ omnivideo
+msgid "You can start add a post/page and click on <strong>add media</strong> button to add your videos"
+msgstr ""
+
+#: video_source/dailymotion.php:54
+#: video_source/vimeo.php:50
+#: video_source/youtube.php:53
+#@ omnivideo
+msgid "Oopssss! You forgot to fill username"
+msgstr ""
+
+#: video_source/dailymotion.php:63
+#: video_source/vimeo.php:59
+#: video_source/youtube.php:63
+#@ omnivideo
+msgid "Error fetching video, please try again a few minute later."
+msgstr ""
+
+#: video_source/dailymotion.php:76
+#: video_source/vimeo.php:72
+#: video_source/youtube.php:76
+#@ omnivideo
+msgid "Error fetching data"
+msgstr ""
+

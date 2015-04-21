@@ -1,8 +1,8 @@
 === OmniVideo by ColorLabs & Company ===
 Contributors: colorlabs
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@colorlabsproject.com&item_name=Donation+for+OmniVideo
-Requires at least: 3.1.0
-Tested up to: 3.8.0
+Requires at least: 3.5
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv3 or later
 Tags: video, youtube, vimeo, dailymotion
@@ -19,7 +19,7 @@ You can add multiple gallery on the same post/page.
 
 = Minimum Requirements =
 
-* WordPress 3.3 or greater
+* WordPress 3.5 or greater
 * PHP version 5.2.4 or greater
 * MySQL version 5.0 or greater
 
@@ -51,6 +51,10 @@ Yes; OmniVideo will work with any theme.
 Bugs can be reported in our [ColorLabs Support Desk](http://colorlabsproject.com/support/) or you can also use wordpress plugins support for reporting bugs and error.
 
 == Changelog ==
+
+= 1.1.0 = 
+
+* Fix compatibility with WordPress 4.1
 
 = 1.0.0 =
 
