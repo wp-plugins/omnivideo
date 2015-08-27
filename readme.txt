@@ -2,7 +2,7 @@
 Contributors: colorlabs
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=paypal@colorlabsproject.com&item_name=Donation+for+OmniVideo
 Requires at least: 3.5
-Tested up to: 4.1
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv3 or later
 Tags: video, youtube, vimeo, dailymotion
@@ -51,6 +51,11 @@ Yes; OmniVideo will work with any theme.
 Bugs can be reported in our [ColorLabs Support Desk](http://colorlabsproject.com/support/) or you can also use wordpress plugins support for reporting bugs and error.
 
 == Changelog ==
+
+= 1.1.1 = 
+
+* Fix compatibility with WordPress 4.3
+* Fix Youtube videos
 
 = 1.1.0 = 
 

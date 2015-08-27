@@ -3,11 +3,11 @@
 Plugin Name: OmniVideo
 Plugin URI: http://www.colorlabsproject.com/plugins/omnivideo/
 Description: Enhance your WordPress website with the OmniVideo Photo Gallery. You can easily add your videos from your Youtube, Vimeo or Daily Motion channel. Adding the gallery is very simple, you just have to add new post/page, then select gallery icon, select OmniVideo then you can select which video source you want to insert.
-Version: 1.1
-Author: ColorLabs & Company
+Version: 1.1.1
+Author: Colorlabs & Company
 Author URI: http://www.colorlabsproject.com
 
-Copyright 2015 ColorLabs & Company
+Copyright 2015 Colorlabs & Company
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
